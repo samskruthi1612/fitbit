@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'fitbit';
+    src:  url('../assets/fonts/fitbit.eot?yso7qm');
+    src:  url('../assets/fonts/fitbit.eot?yso7qm#iefix') format('embedded-opentype'),
+      url('../assets/fonts/fitbit.ttf?yso7qm') format('truetype'),
+      url('../assets/fonts/fitbit.woff?yso7qm') format('woff'),
+      url('../assets/fonts/fitbit.svg?yso7qm#fitbit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'fitbit' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-fitbit:before {
+    content: "\e900";
+  }
+  .icon-versa:before {
+    content: "\e901";
+  }
+  .icon-cancel:before {
+    content: "\e902";
+  }
+  .icon-rotate:before {
+    content: "\e908";
+  }
+  .icon-chevron-right:before {
+    content: "\6e";
+  }
+  .icon-black-graphite:before {
+    content: "\e904";
+  }
+  .icon-chevron-left:before {
+    content: "\e905";
+  }
+  .icon-arrow-right:before {
+    content: "\ea3c";
+  }
+  

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Versa-Classic-Gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+    </defs>
+    <g id="Swatches" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Versa-Classic-Gray">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Circle-Mask"></g>
+                <g id="Product-Color/Classic-Gray" mask="url(#mask-2)" fill="#BEC1C3">
+                    <g id="Group-Copy">
+                        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="50" height="50"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
